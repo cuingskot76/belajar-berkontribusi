@@ -3,6 +3,8 @@
 Disini kita akan belajar bagaimana caranya berkontribusi pada project open source, Github. 
 Ok, tanpa banyak basa basi langsung saja kita eksekusi 😄.
 
+Anda dapat melihat daftar yang sudah berkontribusi [disini](https://cuingskot76.github.io/belajar-berkontribusi/) <br>
+
 ## Persyaratan!
 Silahkan install beberapa aplikasi berikut ini, ya agar berjalan mulus 
 1. [NodeJs](https://nodejs.org/en/)
@@ -80,8 +82,6 @@ Tugas anda sebagai kontributor sudah selesai sampai disini. Nantinya pemilik rep
 ### Repo original'nya juga akan otomatis ter-update <br>
 [![image.png](https://i.postimg.cc/bvH3Xbz6/image.png)](https://postimg.cc/KKjnB13L) <br> <br>
 
-### Bonus <br>
-Anda dapat melihat daftar yang sudah berkontribusi [disini](https://cuingskot76.github.io/belajar-berkontribusi/) <br>
 ### Bug? <br>
 Entah kenapa ngga ada daftar yang sudah berkontribusi pada bagian samping kanan repo aslinya :) <br>
 Jika ada yang tahu langsung saja open issue pada tab **issues** <br>
